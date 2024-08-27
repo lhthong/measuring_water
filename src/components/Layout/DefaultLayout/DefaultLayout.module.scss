@@ -1,0 +1,9 @@
+.wapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(33, 37, 41);
+}
+.container {
+    width: var(--default-layout-width);
+}
